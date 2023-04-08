@@ -1,0 +1,13 @@
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.exe.config
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.exe
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.pdb
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.xml
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.Form1.resources
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.Resources.resources
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.exe
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.xml
+C:\Users\amarm\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.pdb
