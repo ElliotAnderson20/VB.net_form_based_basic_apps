@@ -1,0 +1,13 @@
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe.config
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.exe
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.pdb
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\bin\Debug\WindowsApp13.xml
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Form1.resources
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.Resources.resources
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.exe
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.xml
+C:\Users\amarm\source\repos\WindowsApp13\WindowsApp13\obj\Debug\WindowsApp13.pdb
