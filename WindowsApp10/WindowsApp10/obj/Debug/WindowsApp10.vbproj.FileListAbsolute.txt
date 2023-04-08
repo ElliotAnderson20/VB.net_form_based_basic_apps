@@ -1,0 +1,13 @@
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe.config
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.exe
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.pdb
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\bin\Debug\WindowsApp10.xml
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Form1.resources
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.Resources.resources
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.exe
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.xml
+C:\Users\amarm\source\repos\WindowsApp10\WindowsApp10\obj\Debug\WindowsApp10.pdb

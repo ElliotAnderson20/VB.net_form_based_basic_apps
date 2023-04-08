@@ -1,0 +1,13 @@
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe.config
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.exe
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.pdb
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\bin\Debug\WindowsApp9.xml
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Form1.resources
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.Resources.resources
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.exe
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.xml
+C:\Users\amarm\source\repos\WindowsApp9\WindowsApp9\obj\Debug\WindowsApp9.pdb

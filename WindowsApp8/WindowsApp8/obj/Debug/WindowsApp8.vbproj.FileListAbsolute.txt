@@ -1,0 +1,13 @@
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe.config
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.exe
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.pdb
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\bin\Debug\WindowsApp8.xml
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.AssemblyReference.cache
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Form1.resources
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.Resources.resources
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.GenerateResource.cache
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.vbproj.CoreCompileInputs.cache
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.exe
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.xml
+C:\Users\amarm\source\repos\WindowsApp8\WindowsApp8\obj\Debug\WindowsApp8.pdb
